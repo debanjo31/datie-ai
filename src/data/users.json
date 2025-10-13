@@ -1,0 +1,3010 @@
+[
+  {
+    "userId": "dc2a5a7b-e91b-4b1a-9c7f-3d6e5a4b1c2d",
+    "profileInfo": {
+      "username": "EthanHikesCO",
+      "firstName": "Ethan",
+      "age": 29,
+      "gender": "Male",
+      "location": {
+        "city": "Boulder",
+        "state": "CO"
+      },
+      "bio": "Environmental scientist who feels most at home in the mountains. My weekends are for bagging peaks or finding a new brewery. My dog, Summit, is my main hiking partner. Looking for someone who doesn't mind a little dirt and loves a good sunset.",
+      "occupation": "Environmental Scientist",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Hiking",
+      "Camping",
+      "Craft Beer",
+      "Dogs",
+      "Geology",
+      "Skiing"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/1_1.jpg",
+      "https://example.com/images/male/1_2.jpg",
+      "https://example.com/images/male/1_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [26, 34],
+      "genderPreference": "Female",
+      "maxDistanceKm": 150,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "ab8d4c9e-3f2a-4b1d-8e7c-6d5b4a3c2b1a",
+    "profileInfo": {
+      "username": "Chloe_Reads",
+      "firstName": "Chloe",
+      "age": 32,
+      "gender": "Female",
+      "location": {
+        "city": "New York",
+        "state": "NY"
+      },
+      "bio": "Book editor living that classic city life fueled by coffee and curiosity. I prefer a quiet night at a jazz club over a loud party. My ideal date is exploring a museum followed by a great conversation over pasta. Let's trade book recommendations.",
+      "occupation": "Book Editor",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Reading",
+      "Museums",
+      "Jazz Music",
+      "Italian Food",
+      "Theater",
+      "Cats"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/1_1.jpg",
+      "https://example.com/images/female/1_2.jpg",
+      "https://example.com/images/female/1_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 38],
+      "genderPreference": "Male",
+      "maxDistanceKm": 30,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "f7e6d5c4-b3a2-4c1d-9e8f-7g6h5i4j3k2l",
+    "profileInfo": {
+      "username": "CodeAndCoffee",
+      "firstName": "Liam",
+      "age": 26,
+      "gender": "Male",
+      "location": {
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "bio": "Software engineer who's passionate about building cool things. When I'm not coding, I'm probably playing board games with friends, trying to find the best espresso in the city, or playing my guitar. Looking for a player two for life's co-op campaign.",
+      "occupation": "Software Engineer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Video Games",
+      "Board Games",
+      "Guitar",
+      "Coffee",
+      "Technology",
+      "Rainy Days"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/2_1.jpg",
+      "https://example.com/images/male/2_2.jpg",
+      "https://example.com/images/male/2_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [24, 30],
+      "genderPreference": "Female",
+      "maxDistanceKm": 50,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c4d5e6f7-a8b9-4c1d-a2b3-d4e5f6a7b8c9",
+    "profileInfo": {
+      "username": "Sophia_Yoga",
+      "firstName": "Sophia",
+      "age": 30,
+      "gender": "Female",
+      "location": {
+        "city": "San Diego",
+        "state": "CA"
+      },
+      "bio": "Yoga instructor and wellness advocate. I believe in nourishing the body and mind. My passions are farmers markets, sunrise yoga on the beach, and healthy cooking. Seeking a kind, positive partner to share good vibes and adventures with.",
+      "occupation": "Yoga Instructor",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Never",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Yoga",
+      "Meditation",
+      "Healthy Cooking",
+      "Beach",
+      "Farmers Markets",
+      "Positive Psychology"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/2_1.jpg",
+      "https://example.com/images/female/2_2.jpg",
+      "https://example.com/images/female/2_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 36],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "profileInfo": {
+      "username": "BigCityBen",
+      "firstName": "Ben",
+      "age": 35,
+      "gender": "Male",
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "bio": "Architect by trade, foodie by nature. I love exploring the city's amazing architecture and finding hidden gem restaurants. I'm a straightforward, loyal guy looking for a partner to build a future with. I make a mean Old Fashioned.",
+      "occupation": "Architect",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Architecture",
+      "Trying New Restaurants",
+      "Cocktails",
+      "Live Sports",
+      "History",
+      "City Walks"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/3_1.jpg",
+      "https://example.com/images/male/3_2.jpg",
+      "https://example.com/images/male/3_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 38],
+      "genderPreference": "Female",
+      "maxDistanceKm": 40,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "f0e9d8c7-b6a5-4c3d-b2a1-c0b9d8e7f6a5",
+    "profileInfo": {
+      "username": "Olivia_Art",
+      "firstName": "Olivia",
+      "age": 27,
+      "gender": "Female",
+      "location": {
+        "city": "Miami",
+        "state": "FL"
+      },
+      "bio": "Graphic designer with a love for all things bright and colorful. My happy place is by the ocean with a sketchbook. When I'm not designing, I'm salsa dancing or trying to keep my houseplants alive. Looking for a creative, fun-loving soul.",
+      "occupation": "Graphic Designer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Art",
+      "Salsa Dancing",
+      "Beach Days",
+      "Houseplants",
+      "Graphic Design",
+      "Concerts"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/3_1.jpg",
+      "https://example.com/images/female/3_2.jpg",
+      "https://example.com/images/female/3_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [26, 33],
+      "genderPreference": "Male",
+      "maxDistanceKm": 70,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "9a8b7c6d-5e4f-4a3b-b2c1-d0e9f8a7b6c5",
+    "profileInfo": {
+      "username": "Mason_MD",
+      "firstName": "Mason",
+      "age": 31,
+      "gender": "Male",
+      "location": {
+        "city": "Boston",
+        "state": "MA"
+      },
+      "bio": "ER doctor with a hectic schedule but I make time for what matters. Decompress by running along the Charles River or catching a game at Fenway. I'm a good listener and value honesty and intelligence. Seeking a partner who is independent and kind.",
+      "occupation": "Doctor",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Running",
+      "Medicine",
+      "Reading",
+      "Baseball",
+      "History Documentaries",
+      "Travel"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/4_1.jpg",
+      "https://example.com/images/male/4_2.jpg",
+      "https://example.com/images/male/4_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 35],
+      "genderPreference": "Female",
+      "maxDistanceKm": 60,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "e8f7a6b5-c4d3-4e2f-a1b0-c9d8e7f6a5b4",
+    "profileInfo": {
+      "username": "AvaTheLawyer",
+      "firstName": "Ava",
+      "age": 34,
+      "gender": "Female",
+      "location": {
+        "city": "Washington",
+        "state": "DC"
+      },
+      "bio": "Ambitious lawyer who argues for a living but promises not to in a relationship. I unwind with spin classes and weekend trips out of the city. I'm fiercely loyal, have a dry sense of humor, and am looking for an equal partner in crime.",
+      "occupation": "Lawyer",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Politics",
+      "Spin Classes",
+      "Weekend Trips",
+      "True Crime Podcasts",
+      "Brunch",
+      "Modern Art"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/4_1.jpg",
+      "https://example.com/images/female/4_2.jpg",
+      "https://example.com/images/female/4_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [32, 40],
+      "genderPreference": "Male",
+      "maxDistanceKm": 50,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c6d5e4f3-b2a1-4c0d-9e8f-7g6h5i4j3k2l",
+    "profileInfo": {
+      "username": "NoahBuilds",
+      "firstName": "Noah",
+      "age": 33,
+      "gender": "Male",
+      "location": {
+        "city": "Nashville",
+        "state": "TN"
+      },
+      "bio": "Carpenter and musician. I build furniture by day and play guitar in a local band by night. I'm a laid-back guy who loves good BBQ, old vinyl records, and my golden retriever, Cash. Looking for someone genuine and down-to-earth.",
+      "occupation": "Carpenter",
+      "education": "Some College"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Woodworking",
+      "Playing Guitar",
+      "Live Music",
+      "Dogs",
+      "BBQ",
+      "Vinyl Records"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/5_1.jpg",
+      "https://example.com/images/male/5_2.jpg",
+      "https://example.com/images/male/5_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 36],
+      "genderPreference": "Female",
+      "maxDistanceKm": 100,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "b1a0c9d8-e7f6-4a5b-b4c3-d2e1f0a9b8c7",
+    "profileInfo": {
+      "username": "MiaTheChef",
+      "firstName": "Mia",
+      "age": 29,
+      "gender": "Female",
+      "location": {
+        "city": "New Orleans",
+        "state": "LA"
+      },
+      "bio": "Pastry chef who believes dessert should always come first. My life is loud, flavorful, and full of joy. I love exploring the city's vibrant culture, dancing to zydeco, and hosting dinner parties. Seeking a man with a big appetite for food and life.",
+      "occupation": "Pastry Chef",
+      "education": "Vocational School"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Baking",
+      "Cajun Food",
+      "Dancing",
+      "Live Music",
+      "Festivals",
+      "Hosting Parties"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/5_1.jpg",
+      "https://example.com/images/female/5_2.jpg",
+      "https://example.com/images/female/5_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 35],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "1f2e3d4c-5b6a-4f7e-8d9c-0b1a2f3e4d5c",
+    "profileInfo": {
+      "username": "JackOnTheRoad",
+      "firstName": "Jack",
+      "age": 27,
+      "gender": "Male",
+      "location": {
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      "bio": "Freelance photographer always chasing the golden hour. I live a pretty nomadic life in my converted van, but Arizona is my home base. If you love road trips, national parks, and stargazing, we'll get along.",
+      "occupation": "Photographer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Photography",
+      "Road Trips",
+      "National Parks",
+      "Stargazing",
+      "Van Life",
+      "Minimalism"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/6_1.jpg",
+      "https://example.com/images/male/6_2.jpg",
+      "https://example.com/images/male/6_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [24, 30],
+      "genderPreference": "Female",
+      "maxDistanceKm": 200,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "e8d7c6b5-a4f3-4e2d-b1c0-a9b8c7d6e5f4",
+    "profileInfo": {
+      "username": "IsabellaRN",
+      "firstName": "Isabella",
+      "age": 28,
+      "gender": "Female",
+      "location": {
+        "city": "Philadelphia",
+        "state": "PA"
+      },
+      "bio": "ER Nurse. My job is intense, so I value my downtime. I love quiet nights in with a good movie, trying new takeout, and spending time with my small circle of friends. Looking for a stable, kind, and funny guy to relax with.",
+      "occupation": "Registered Nurse",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Movies",
+      "Binge-watching shows",
+      "Dogs",
+      "Comfort Food",
+      "Naps",
+      "Dark Humor"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/6_1.jpg",
+      "https://example.com/images/female/6_2.jpg",
+      "https://example.com/images/female/6_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [27, 34],
+      "genderPreference": "Male",
+      "maxDistanceKm": 60,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "c3b2a1d0-e9f8-4a7b-b6c5-d4e3f2a1b0c9",
+    "profileInfo": {
+      "username": "RyanFit",
+      "firstName": "Ryan",
+      "age": 30,
+      "gender": "Male",
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      "bio": "Personal trainer and nutrition coach. I'm all about setting goals and crushing them, in the gym and in life. When I'm not working, I'm at the beach, playing volleyball, or meal prepping. Looking for an active and motivated partner.",
+      "occupation": "Personal Trainer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Weightlifting",
+      "Nutrition",
+      "Beach Volleyball",
+      "Meal Prep",
+      "Action Movies",
+      "Surfing"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/7_1.jpg",
+      "https://example.com/images/male/7_2.jpg",
+      "https://example.com/images/male/7_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 33],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a9b8c7d6-e5f4-4a3b-b2c1-d0e9f8a7b6c5",
+    "profileInfo": {
+      "username": "Evelyn_Grace",
+      "firstName": "Evelyn",
+      "age": 38,
+      "gender": "Female",
+      "location": {
+        "city": "Charleston",
+        "state": "SC"
+      },
+      "bio": "Interior designer with an appreciation for classic style and southern charm. Divorced, one amazing kid, and very happy with my life. Seeking a confident, established man who is a true gentleman and knows what he wants.",
+      "occupation": "Interior Designer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Interior Design",
+      "Antiquing",
+      "Sailing",
+      "Wine Tasting",
+      "Gardening",
+      "Historical Fiction"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/7_1.jpg",
+      "https://example.com/images/female/7_2.jpg",
+      "https://example.com/images/female/7_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [35, 45],
+      "genderPreference": "Male",
+      "maxDistanceKm": 100,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
+    "profileInfo": {
+      "username": "OwenThePilot",
+      "firstName": "Owen",
+      "age": 36,
+      "gender": "Male",
+      "location": {
+        "city": "Atlanta",
+        "state": "GA"
+      },
+      "bio": "Airline pilot who is gone a lot but makes the most of my time at home. I'm calm under pressure and great at navigating. Looking for an independent woman who has her own life but wants to share it with me when I'm on the ground.",
+      "occupation": "Airline Pilot",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Travel",
+      "Aviation",
+      "Golf",
+      "Grilling",
+      "Podcasts",
+      "International Cuisine"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/8_1.jpg",
+      "https://example.com/images/male/8_2.jpg",
+      "https://example.com/images/male/8_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 38],
+      "genderPreference": "Female",
+      "maxDistanceKm": 120,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c8d7e6f5-a4b3-4c2d-b1a0-c9d8e7f6a5b4",
+    "profileInfo": {
+      "username": "Lily_in_Bloom",
+      "firstName": "Lily",
+      "age": 25,
+      "gender": "Female",
+      "location": {
+        "city": "Austin",
+        "state": "TX"
+      },
+      "bio": "Kindergarten teacher. My life is full of glitter, story time, and endless patience. I'm an optimist who loves paddle boarding on the lake, trying new food trucks, and two-stepping. Seeking a kind and playful partner.",
+      "occupation": "Kindergarten Teacher",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Paddle Boarding",
+      "Food Trucks",
+      "Country Music",
+      "Dogs",
+      "Crafting",
+      "Brunch"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/8_1.jpg",
+      "https://example.com/images/female/8_2.jpg",
+      "https://example.com/images/female/8_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 32],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a6b5c4d3-e2f1-4a0d-9e8f-7g6h5i4j3k2l",
+    "profileInfo": {
+      "username": "David_Finance",
+      "firstName": "David",
+      "age": 42,
+      "gender": "Male",
+      "location": {
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      "bio": "Investment banker. I work hard, but I believe in enjoying the rewards. Weekends are for sailing on the bay, wine tasting in Napa, or a nice dinner out. I'm divorced, financially stable, and looking for a smart, elegant woman to be my partner.",
+      "occupation": "Investment Banker",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Sailing",
+      "Wine Tasting",
+      "Fine Dining",
+      "Finance",
+      "Travel",
+      "Skiing"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/9_1.jpg",
+      "https://example.com/images/male/9_2.jpg",
+      "https://example.com/images/male/9_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [35, 45],
+      "genderPreference": "Female",
+      "maxDistanceKm": 100,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "f9e8d7c6-b5a4-4c3d-b2a1-c0b9d8e7f6a5",
+    "profileInfo": {
+      "username": "GraceNotes",
+      "firstName": "Grace",
+      "age": 24,
+      "gender": "Female",
+      "location": {
+        "city": "Nashville",
+        "state": "TN"
+      },
+      "bio": "Aspiring singer/songwriter currently working as a barista to pay the bills. My guitar is practically an extension of my arm. I'm a bit of a romantic idealist who loves open mic nights, old bookshops, and deep conversations.",
+      "occupation": "Barista / Musician",
+      "education": "Some College"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Songwriting",
+      "Playing Guitar",
+      "Open Mic Nights",
+      "Vintage Clothing",
+      "Poetry",
+      "Coffee Shops"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/9_1.jpg",
+      "https://example.com/images/female/9_2.jpg",
+      "https://example.com/images/female/9_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [24, 30],
+      "genderPreference": "Male",
+      "maxDistanceKm": 70,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "b4c3d2e1-f0a9-4b8c-b7a6-e5f4d3c2b1a0",
+    "profileInfo": {
+      "username": "TomTheTeacher",
+      "firstName": "Tom",
+      "age": 39,
+      "gender": "Male",
+      "location": {
+        "city": "Minneapolis",
+        "state": "MN"
+      },
+      "bio": "High school history teacher and coach. I'm a big goofball who loves dad jokes and making people laugh. Summers are for cabin weekends and fishing. I have two great kids who are my world. Looking for a kind woman with a good heart.",
+      "occupation": "High School Teacher",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Active",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "History",
+      "Coaching Basketball",
+      "Fishing",
+      "Dad Jokes",
+      "Board Games",
+      "Grilling"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/10_1.jpg",
+      "https://example.com/images/male/10_2.jpg",
+      "https://example.com/images/male/10_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [34, 42],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "e1f0a9b8-c7d6-4e5f-b4c3-d2e1f0a9b8c7",
+    "profileInfo": {
+      "username": "ZoeInTheLab",
+      "firstName": "Zoe",
+      "age": 27,
+      "gender": "Female",
+      "location": {
+        "city": "Raleigh",
+        "state": "NC"
+      },
+      "bio": "PhD student in microbiology. My life revolves around research, but I try to have a life outside the lab! I love trivia nights, rock climbing, and nerdy sci-fi shows. I'm analytical but have a very silly side. Looking for a smart, funny guy.",
+      "occupation": "PhD Student",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Science",
+      "Rock Climbing",
+      "Trivia Nights",
+      "Sci-Fi",
+      "Baking",
+      "Cats"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/10_1.jpg",
+      "https://example.com/images/female/10_2.jpg",
+      "https://example.com/images/female/10_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [26, 33],
+      "genderPreference": "Male",
+      "maxDistanceKm": 50,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "8a3d1c9b-6f4e-4b2a-8c1d-5e9a3b1d7c4f",
+    "profileInfo": {
+      "username": "WanderlustWill",
+      "firstName": "William",
+      "age": 31,
+      "gender": "Male",
+      "location": {
+        "city": "Denver",
+        "state": "CO"
+      },
+      "bio": "Marketing manager with an insatiable case of wanderlust. If I'm not working, I'm planning my next trip abroad. I've been to 30 countries and counting. Looking for a co-pilot for international adventures and local explorations.",
+      "occupation": "Marketing Manager",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "International Travel",
+      "Backpacking",
+      "Photography",
+      "Learning Languages",
+      "Craft Beer",
+      "Snowboarding"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/11_1.jpg",
+      "https://example.com/images/male/11_2.jpg",
+      "https://example.com/images/male/11_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [27, 35],
+      "genderPreference": "Female",
+      "maxDistanceKm": 100,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "f4e2d1c9-8b7a-4c3d-9e1f-6a5b4c3d2e1f",
+    "profileInfo": {
+      "username": "NoraTheNurse",
+      "firstName": "Nora",
+      "age": 28,
+      "gender": "Female",
+      "location": {
+        "city": "Cleveland",
+        "state": "OH"
+      },
+      "bio": "Pediatric nurse with a big heart and a goofy sense of humor. My job is my passion. I love to unwind by baking, watching classic movies, and going for long walks with my beagle. Seeking a kind and dependable man who can make me laugh.",
+      "occupation": "Pediatric Nurse",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Baking",
+      "Classic Movies",
+      "Dogs",
+      "True Crime",
+      "Volunteering",
+      "Reading"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/11_1.jpg",
+      "https://example.com/images/female/11_2.jpg",
+      "https://example.com/images/female/11_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [27, 34],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c9d8e7f6-a5b4-4c3d-b2a1-c0b9d8e7f6a5",
+    "profileInfo": {
+      "username": "LeoTheLion",
+      "firstName": "Leo",
+      "age": 33,
+      "gender": "Male",
+      "location": {
+        "city": "Las Vegas",
+        "state": "NV"
+      },
+      "bio": "Hotel manager on the Strip. I live a fast-paced life but I'm actually pretty chill. I enjoy fine dining, poker nights with friends, and relaxing by the pool on my days off. Looking for a confident woman who isn't easily intimidated.",
+      "occupation": "Hotel Manager",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Fine Dining",
+      "Poker",
+      "Shows",
+      "Boxing",
+      "Travel",
+      "Luxury Cars"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/12_1.jpg",
+      "https://example.com/images/male/12_2.jpg",
+      "https://example.com/images/male/12_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 36],
+      "genderPreference": "Female",
+      "maxDistanceKm": 60,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
+    "profileInfo": {
+      "username": "Hannah_Sews",
+      "firstName": "Hannah",
+      "age": 29,
+      "gender": "Female",
+      "location": {
+        "city": "Kansas City",
+        "state": "MO"
+      },
+      "bio": "Fashion designer and small business owner. I run my own online boutique. I'm creative, ambitious, and have a cat named Merlot. Love finding vintage fabrics, trying new brunch spots, and re-watching The Office.",
+      "occupation": "Fashion Designer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Fashion",
+      "Sewing",
+      "Vintage Shopping",
+      "Brunch",
+      "Cats",
+      "The Office"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/12_1.jpg",
+      "https://example.com/images/female/12_2.jpg",
+      "https://example.com/images/female/12_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 35],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "f0e9d8c7-b6a5-4c3d-b2a1-c0b9d8e7f6a6",
+    "profileInfo": {
+      "username": "MaxPower",
+      "firstName": "Max",
+      "age": 25,
+      "gender": "Male",
+      "location": {
+        "city": "Orlando",
+        "state": "FL"
+      },
+      "bio": "Mechanical engineer working in the theme park industry. It's a fun gig. I'm a bit of a nerd who loves roller coasters, Star Wars, and building complex Lego sets. Just a fun-loving guy looking for a girl to laugh with.",
+      "occupation": "Mechanical Engineer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Theme Parks",
+      "Roller Coasters",
+      "Star Wars",
+      "Lego",
+      "Board Games",
+      "Marvel Movies"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/13_1.jpg",
+      "https://example.com/images/male/13_2.jpg",
+      "https://example.com/images/male/13_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [23, 29],
+      "genderPreference": "Female",
+      "maxDistanceKm": 90,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5b",
+    "profileInfo": {
+      "username": "Rachel_Venture",
+      "firstName": "Rachel",
+      "age": 36,
+      "gender": "Female",
+      "location": {
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      "bio": "Venture capitalist focused on tech startups. My work is my passion, and I'm looking for a partner who is equally driven and ambitious. I de-stress with long trail runs, weekend trips to wine country, and trying new Michelin-starred restaurants.",
+      "occupation": "Venture Capitalist",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Technology",
+      "Startups",
+      "Trail Running",
+      "Fine Dining",
+      "Wine Tasting",
+      "Economics"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/13_1.jpg",
+      "https://example.com/images/female/13_2.jpg",
+      "https://example.com/images/female/13_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [34, 42],
+      "genderPreference": "Male",
+      "maxDistanceKm": 70,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c8d7e6f5-a4b3-4c2d-b1a0-c9d8e7f6a5b5",
+    "profileInfo": {
+      "username": "Simple_Sam",
+      "firstName": "Sam",
+      "age": 45,
+      "gender": "Male",
+      "location": {
+        "city": "Des Moines",
+        "state": "IA"
+      },
+      "bio": "Just a simple guy. I'm a plumber, I own my own home, and I love to fish on the weekends. I'm honest, hardworking, and loyal. My two kids are grown. Looking for a down-to-earth woman who enjoys the simple things in life.",
+      "occupation": "Plumber",
+      "education": "High School"
+    },
+    "lifestyle": {
+      "smoking": "Regularly",
+      "drinking": "Socially",
+      "exercise": "Almost Never",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Fishing",
+      "Country Music",
+      "Grilling",
+      "Watching Football",
+      "DIY Projects",
+      "Dogs"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/14_1.jpg",
+      "https://example.com/images/male/14_2.jpg",
+      "https://example.com/images/male/14_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [38, 48],
+      "genderPreference": "Female",
+      "maxDistanceKm": 100,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "b1a0c9d8-e7f6-4a5b-b4c3-d2e1f0a9b8c8",
+    "profileInfo": {
+      "username": "Clara_Paints",
+      "firstName": "Clara",
+      "age": 28,
+      "gender": "Female",
+      "location": {
+        "city": "Santa Fe",
+        "state": "NM"
+      },
+      "bio": "Artist and gallery assistant. I find beauty in the desert landscape and try to capture it on canvas. I'm a bit of an old soul. I love turquoise jewelry, spicy food, and quiet nights under the stars. Looking for a kind and creative spirit.",
+      "occupation": "Artist",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Painting",
+      "Art History",
+      "Hiking",
+      "New Mexican Cuisine",
+      "Stargazing",
+      "Folk Music"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/14_1.jpg",
+      "https://example.com/images/female/14_2.jpg",
+      "https://example.com/images/female/14_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [27, 35],
+      "genderPreference": "Male",
+      "maxDistanceKm": 120,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "e1f0a9b8-c7d6-4e5f-b4c3-d2e1f0a9b8c9",
+    "profileInfo": {
+      "username": "FiremanFrank",
+      "firstName": "Frank",
+      "age": 32,
+      "gender": "Male",
+      "location": {
+        "city": "Jersey City",
+        "state": "NJ"
+      },
+      "bio": "Firefighter. My job is a big part of my identity. I'm protective, reliable, and part of a brotherhood. On my days off, I'm usually at the gym, playing hockey, or at a sports bar with the guys. Looking for a loyal woman with a good head on her shoulders.",
+      "occupation": "Firefighter",
+      "education": "Some College"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Working Out",
+      "Hockey",
+      "Sports Bars",
+      "Action Movies",
+      "Dogs",
+      "Italian Food"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/15_1.jpg",
+      "https://example.com/images/male/15_2.jpg",
+      "https://example.com/images/male/15_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [27, 34],
+      "genderPreference": "Female",
+      "maxDistanceKm": 50,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a9b8c7d6-e5f4-4a3b-b2c1-d0e9f8a7b6c6",
+    "profileInfo": {
+      "username": "Julia_Journalist",
+      "firstName": "Julia",
+      "age": 31,
+      "gender": "Female",
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "bio": "Investigative journalist who is naturally curious about the world. I'm always chasing a story. I'm a fast-talker, a bit cynical, but deeply passionate about justice. Looking for someone who can keep up and challenge me intellectually.",
+      "occupation": "Journalist",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Current Events",
+      "Writing",
+      "Documentaries",
+      "Live Blues",
+      "Dive Bars",
+      "Podcasts"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/15_1.jpg",
+      "https://example.com/images/female/15_2.jpg",
+      "https://example.com/images/female/15_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 38],
+      "genderPreference": "Male",
+      "maxDistanceKm": 60,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5c",
+    "profileInfo": {
+      "username": "CarlosCooks",
+      "firstName": "Carlos",
+      "age": 37,
+      "gender": "Male",
+      "location": {
+        "city": "Miami",
+        "state": "FL"
+      },
+      "bio": "Restaurant owner and chef. My love language is feeding people. I bring passion and intensity to everything I do, from my kitchen to my relationships. My life is loud and full of family. Looking for a warm, family-oriented woman.",
+      "occupation": "Chef / Restaurant Owner",
+      "education": "Vocational School"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Cooking",
+      "Cuban Cuisine",
+      "Salsa Dancing",
+      "Family",
+      "Cigars",
+      "Beach"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/16_1.jpg",
+      "https://example.com/images/male/16_2.jpg",
+      "https://example.com/images/male/16_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 38],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c8d7e6f5-a4b3-4c2d-b1a0-c9d8e7f6a5b6",
+    "profileInfo": {
+      "username": "Penny_Lane",
+      "firstName": "Penelope",
+      "age": 26,
+      "gender": "Female",
+      "location": {
+        "city": "Portland",
+        "state": "OR"
+      },
+      "bio": "Veterinary technician and animal lover to my core. I have two rescue dogs and a foster cat. My happy place is a rainy day spent indoors with my pets and a good book. I'm a homebody with a huge heart.",
+      "occupation": "Veterinary Technician",
+      "education": "Associate Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Animal Rescue",
+      "Dogs",
+      "Cats",
+      "Reading",
+      "Rainy Days",
+      "Vegan food"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/16_1.jpg",
+      "https://example.com/images/female/16_2.jpg",
+      "https://example.com/images/female/16_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 32],
+      "genderPreference": "Male",
+      "maxDistanceKm": 50,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "b1a0c9d8-e7f6-4a5b-b4c3-d2e1f0a9b8c9",
+    "profileInfo": {
+      "username": "Henry_VIII",
+      "firstName": "Henry",
+      "age": 41,
+      "gender": "Male",
+      "location": {
+        "city": "Boston",
+        "state": "MA"
+      },
+      "bio": "History professor at a local university. I'm a bit of an academic, but I don't take myself too seriously. I love debating ideas over a pint, exploring historical sites, and sailing. Seeking an intelligent, witty woman who loves to learn.",
+      "occupation": "Professor",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "History",
+      "Teaching",
+      "Sailing",
+      "Museums",
+      "Debate",
+      "Craft Beer"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/17_1.jpg",
+      "https://example.com/images/male/17_2.jpg",
+      "https://example.com/images/male/17_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [35, 45],
+      "genderPreference": "Female",
+      "maxDistanceKm": 60,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "e1f0a9b8-c7d6-4e5f-b4c3-d2e1f0a9b8d0",
+    "profileInfo": {
+      "username": "MarketingMaria",
+      "firstName": "Maria",
+      "age": 33,
+      "gender": "Female",
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      "bio": "Social media marketer. I'm extroverted, high-energy, and always online. I love finding trendy spots, going to concerts, and weekend trips with my girlfriends. Looking for a confident guy who can keep up with my social life.",
+      "occupation": "Social Media Manager",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Frequently",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Social Media",
+      "Concerts",
+      "Brunch",
+      "Pop Culture",
+      "Fashion",
+      "Cocktail Bars"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/17_1.jpg",
+      "https://example.com/images/female/17_2.jpg",
+      "https://example.com/images/female/17_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 38],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a9b8c7d6-e5f4-4a3b-b2c1-d0e9f8a7b6c7",
+    "profileInfo": {
+      "username": "SteadyEddie",
+      "firstName": "Edward",
+      "age": 52,
+      "gender": "Male",
+      "location": {
+        "city": "Dallas",
+        "state": "TX"
+      },
+      "bio": "Accountant. I'm a widower, stable, and a man of routine. I enjoy golfing on Saturdays, grilling for my family on Sundays, and watching old westerns. I'm a simple man looking for a kind, traditional woman to share a quiet life with.",
+      "occupation": "Accountant",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Almost Never",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Golf",
+      "Grilling",
+      "Old Westerns",
+      "Family",
+      "Classic Rock",
+      "Financial News"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/18_1.jpg",
+      "https://example.com/images/male/18_2.jpg",
+      "https://example.com/images/male/18_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [45, 55],
+      "genderPreference": "Female",
+      "maxDistanceKm": 100,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5d",
+    "profileInfo": {
+      "username": "TattooedTessa",
+      "firstName": "Tessa",
+      "age": 27,
+      "gender": "Female",
+      "location": {
+        "city": "Philadelphia",
+        "state": "PA"
+      },
+      "bio": "Tattoo artist and bartender. I'm an artist through and through. My life is a little chaotic but always interesting. I love horror movies, heavy metal, and my pitbull, Ozzy. Looking for someone who doesn't take life too seriously.",
+      "occupation": "Tattoo Artist",
+      "education": "Vocational School"
+    },
+    "lifestyle": {
+      "smoking": "Regularly",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Tattoos",
+      "Drawing",
+      "Horror Movies",
+      "Heavy Metal",
+      "Dive Bars",
+      "Dogs"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/18_1.jpg",
+      "https://example.com/images/female/18_2.jpg",
+      "https://example.com/images/female/18_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [26, 34],
+      "genderPreference": "Male",
+      "maxDistanceKm": 70,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c8d7e6f5-a4b3-4c2d-b1a0-c9d8e7f6a5b7",
+    "profileInfo": {
+      "username": "Gamer_Gabe",
+      "firstName": "Gabriel",
+      "age": 24,
+      "gender": "Male",
+      "location": {
+        "city": "Columbus",
+        "state": "OH"
+      },
+      "bio": "IT support specialist and lifelong gamer. When I'm not fixing computers, I'm probably streaming on Twitch or at a local esports event. I'm a pretty introverted guy, but I open up around the right people. Fluent in sarcasm.",
+      "occupation": "IT Support",
+      "education": "Associate Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Almost Never",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "PC Gaming",
+      "Esports",
+      "Twitch",
+      "Anime",
+      "Building PCs",
+      "Sci-Fi"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/19_1.jpg",
+      "https://example.com/images/male/19_2.jpg",
+      "https://example.com/images/male/19_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [22, 28],
+      "genderPreference": "Female",
+      "maxDistanceKm": 50,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "b1a0c9d8-e7f6-4a5b-b4c3-d2e1f0a9b8d0",
+    "profileInfo": {
+      "username": "WanderingWendy",
+      "firstName": "Wendy",
+      "age": 48,
+      "gender": "Female",
+      "location": {
+        "city": "Tucson",
+        "state": "AZ"
+      },
+      "bio": "Empty nester and recently retired teacher rediscovering myself. I've taken up pottery and hiking. I'm financially independent and free-spirited. Looking for a kind man for companionship, travel, and new adventures.",
+      "occupation": "Retired Teacher",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Hiking",
+      "Pottery",
+      "Travel",
+      "Bird Watching",
+      "Reading",
+      "Southwest Art"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/19_1.jpg",
+      "https://example.com/images/female/19_2.jpg",
+      "https://example.com/images/female/19_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [45, 55],
+      "genderPreference": "Male",
+      "maxDistanceKm": 150,
+      "lookingFor": "Friendship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "e1f0a9b8-c7d6-4e5f-b4c3-d2e1f0a9b8d1",
+    "profileInfo": {
+      "username": "AgriAlex",
+      "firstName": "Alex",
+      "age": 29,
+      "gender": "Male",
+      "location": {
+        "city": "Omaha",
+        "state": "NE"
+      },
+      "bio": "Fourth-generation farmer. My life is tied to the land and the seasons. It's hard work, but it's honest and rewarding. I'm a family man at heart, looking for a woman who understands and appreciates a simpler, rural way of life.",
+      "occupation": "Farmer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Farming",
+      "Country Music",
+      "Dogs",
+      "Hunting",
+      "Community Events",
+      "Family"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/20_1.jpg",
+      "https://example.com/images/male/20_2.jpg",
+      "https://example.com/images/male/20_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 32],
+      "genderPreference": "Female",
+      "maxDistanceKm": 200,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a9b8c7d6-e5f4-4a3b-b2c1-d0e9f8a7b6c8",
+    "profileInfo": {
+      "username": "StellarStella",
+      "firstName": "Stella",
+      "age": 31,
+      "gender": "Female",
+      "location": {
+        "city": "Houston",
+        "state": "TX"
+      },
+      "bio": "Aerospace engineer working on the next generation of spacecraft. I'm a total science nerd but I also love to dress up and go out dancing. I'm ambitious, logical, and have a secret love for bad reality TV. Looking for a smart, confident guy.",
+      "occupation": "Aerospace Engineer",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Space",
+      "Astrophysics",
+      "Dancing",
+      "Running",
+      "Reality TV",
+      "Trivia"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/20_1.jpg",
+      "https://example.com/images/female/20_2.jpg",
+      "https://example.com/images/female/20_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [29, 37],
+      "genderPreference": "Male",
+      "maxDistanceKm": 90,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "3c2d1b0a-9f8e-4a7b-8c6d-5e4f3a2b1d0c",
+    "profileInfo": {
+      "username": "MusicManMilo",
+      "firstName": "Milo",
+      "age": 28,
+      "gender": "Male",
+      "location": {
+        "city": "Austin",
+        "state": "TX"
+      },
+      "bio": "Music producer and sound engineer. My life has a soundtrack, and it's usually some obscure indie band. I live for live shows, vinyl collecting, and late-night tacos. Looking for a girl with great taste in music and an easy-going vibe.",
+      "occupation": "Music Producer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Live Music",
+      "Vinyl Records",
+      "Music Production",
+      "Tacos",
+      "Dive Bars",
+      "Film Photography"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/21_1.jpg",
+      "https://example.com/images/male/21_2.jpg",
+      "https://example.com/images/male/21_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 32],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "9d8e7f6a-5b4c-4d3e-b2a1-c0b9d8e7f6a5",
+    "profileInfo": {
+      "username": "CorpClimberKate",
+      "firstName": "Katherine",
+      "age": 34,
+      "gender": "Female",
+      "location": {
+        "city": "New York",
+        "state": "NY"
+      },
+      "bio": "Corporate strategist. I thrive on challenges and deadlines. My schedule is packed, but I make time for what's important: my friends, fitness, and finding a partner who matches my ambition. I'm direct, witty, and fiercely loyal.",
+      "occupation": "Corporate Strategist",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Business",
+      "Barry's Bootcamp",
+      "Networking",
+      "Weekend Getaways",
+      "Modern Art",
+      "Podcasts"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/21_1.jpg",
+      "https://example.com/images/female/21_2.jpg",
+      "https://example.com/images/female/21_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [32, 40],
+      "genderPreference": "Male",
+      "maxDistanceKm": 40,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "7c6d5e4f-3a2b-4c1d-9e8f-7g6h5i4j3k2l",
+    "profileInfo": {
+      "username": "FinnTheFisherman",
+      "firstName": "Finn",
+      "age": 40,
+      "gender": "Male",
+      "location": {
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "bio": "Commercial fisherman. I spend weeks at sea, but when I'm back on land, I'm all in. I'm a simple man who values honesty and hard work. Love a good steak, a cold beer, and a quiet night at home. Looking for an independent, low-drama woman.",
+      "occupation": "Commercial Fisherman",
+      "education": "High School"
+    },
+    "lifestyle": {
+      "smoking": "Regularly",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Fishing",
+      "Boating",
+      "Grilling",
+      "Country Music",
+      "Watching Hockey",
+      "Dogs"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/22_1.jpg",
+      "https://example.com/images/male/22_2.jpg",
+      "https://example.com/images/male/22_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [35, 45],
+      "genderPreference": "Female",
+      "maxDistanceKm": 100,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "5a4b3c2d-1e0f-4a9b-8c7d-6e5f4a3b2c1d",
+    "profileInfo": {
+      "username": "GreenThumbGina",
+      "firstName": "Gina",
+      "age": 29,
+      "gender": "Female",
+      "location": {
+        "city": "Madison",
+        "state": "WI"
+      },
+      "bio": "Landscape architect who would rather be outdoors. I love designing beautiful spaces and getting my hands dirty. My weekends involve kayaking, tending to my massive vegetable garden, and hitting up the farmers market. Seeking a kind, outdoorsy guy.",
+      "occupation": "Landscape Architect",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Gardening",
+      "Kayaking",
+      "Hiking",
+      "Farmers Markets",
+      "Sustainability",
+      "Dogs"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/22_1.jpg",
+      "https://example.com/images/female/22_2.jpg",
+      "https://example.com/images/female/22_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 35],
+      "genderPreference": "Male",
+      "maxDistanceKm": 90,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "3e2f1a0b-9c8d-4e7f-b6a5-4c3d2e1f0a9b",
+    "profileInfo": {
+      "username": "HumorHealsHenry",
+      "firstName": "Henry",
+      "age": 31,
+      "gender": "Male",
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "bio": "Physical therapist by day, improv comedian by night. Laughter is the best medicine, followed closely by actual medicine. I'm an optimist who loves making people smile. Let's go to a comedy show and see if we click.",
+      "occupation": "Physical Therapist",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Improv Comedy",
+      "Stand-up",
+      "Biking",
+      "Live Music",
+      "Pizza",
+      "Dogs"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/23_1.jpg",
+      "https://example.com/images/male/23_2.jpg",
+      "https://example.com/images/male/23_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 35],
+      "genderPreference": "Female",
+      "maxDistanceKm": 60,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "1c0b9d8e-7f6a-4c5d-b4e3-2a1b0c9d8e7f",
+    "profileInfo": {
+      "username": "IntrovertIris",
+      "firstName": "Iris",
+      "age": 27,
+      "gender": "Female",
+      "location": {
+        "city": "Burlington",
+        "state": "VT"
+      },
+      "bio": "Data analyst and certified homebody. My social battery drains fast, so I prefer deep one-on-one connections over big groups. My perfect night is cozying up with my cat, some tea, and a complex puzzle or strategy game.",
+      "occupation": "Data Analyst",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Almost Never",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Puzzles",
+      "Board Games",
+      "Cats",
+      "Reading Fantasy",
+      "Baking",
+      "Documentaries"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/23_1.jpg",
+      "https://example.com/images/female/23_2.jpg",
+      "https://example.com/images/female/23_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [26, 33],
+      "genderPreference": "Male",
+      "maxDistanceKm": 70,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "f6e5d4c3-b2a1-4c0d-9e8f-7g6h5i4j3k2l",
+    "profileInfo": {
+      "username": "Jumping_Jax",
+      "firstName": "Jackson",
+      "age": 26,
+      "gender": "Male",
+      "location": {
+        "city": "Salt Lake City",
+        "state": "UT"
+      },
+      "bio": "Adrenaline junkie and ski instructor. If it involves heights, speed, or a board, I'm in. I work hard in the winter so I can play hard in the summer—mountain biking, rock climbing, and skydiving. Looking for an adventurous girl who isn't afraid to fall.",
+      "occupation": "Ski Instructor",
+      "education": "Some College"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Skiing",
+      "Mountain Biking",
+      "Rock Climbing",
+      "Skydiving",
+      "Camping",
+      "Craft Beer"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/24_1.jpg",
+      "https://example.com/images/male/24_2.jpg",
+      "https://example.com/images/male/24_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [23, 29],
+      "genderPreference": "Female",
+      "maxDistanceKm": 150,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "d4c3b2a1-e0f9-4d8c-b7a6-e5f4d3c2b1a0",
+    "profileInfo": {
+      "username": "Just_Jenna",
+      "firstName": "Jenna",
+      "age": 35,
+      "gender": "Female",
+      "location": {
+        "city": "Indianapolis",
+        "state": "IN"
+      },
+      "bio": "Single mom to an amazing 8-year-old boy. My life is soccer practice, PTA meetings, and movie nights on the couch. I'm a paralegal, I'm organized, and I'm very loyal. Looking for a patient, family-oriented man who is ready for a real partnership.",
+      "occupation": "Paralegal",
+      "education": "Associate Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Sometimes",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "My Son",
+      "Family",
+      "Cooking",
+      "Disney Movies",
+      "Gardening",
+      "True Crime"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/24_1.jpg",
+      "https://example.com/images/female/24_2.jpg",
+      "https://example.com/images/female/24_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [33, 42],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "b2a1c0b9-d8e7-4f6a-b5c4-d3e2f1a0b9c8",
+    "profileInfo": {
+      "username": "KenThePoet",
+      "firstName": "Kenji",
+      "age": 30,
+      "gender": "Male",
+      "location": {
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      "bio": "English Lit PhD candidate and aspiring poet. I'm a contemplative soul who finds beauty in words and quiet moments. I love foggy mornings, old libraries, and conversations that last for hours. Seeking a thoughtful, intelligent woman.",
+      "occupation": "PhD Candidate",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Poetry",
+      "Literature",
+      "Philosophy",
+      "Coffee Shops",
+      "Walking",
+      "Classic Film"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/25_1.jpg",
+      "https://example.com/images/male/25_2.jpg",
+      "https://example.com/images/male/25_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [27, 35],
+      "genderPreference": "Female",
+      "maxDistanceKm": 50,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "9e8f7g6h-5i4j-4k3l-b2a1-c0b9d8e7f6a5",
+    "profileInfo": {
+      "username": "LaidbackLaura",
+      "firstName": "Laura",
+      "age": 44,
+      "gender": "Female",
+      "location": {
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      "bio": "Real estate agent who knows how to hustle but prefers to relax. Life is too short for drama. My kids are in college, and I'm enjoying my freedom. I love happy hour, poolside lounging, and spontaneous weekend trips. Looking for a fun, confident man.",
+      "occupation": "Real Estate Agent",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Happy Hour",
+      "Relaxing by the Pool",
+      "Interior Design",
+      "Spas",
+      "Weekend Trips",
+      "Live Music"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/25_1.jpg",
+      "https://example.com/images/female/25_2.jpg",
+      "https://example.com/images/female/25_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [42, 52],
+      "genderPreference": "Male",
+      "maxDistanceKm": 100,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a8b7c6d5-e4f3-4a2b-b1a0-c9d8e7f6a5b4",
+    "profileInfo": {
+      "username": "MotorcycleMatt",
+      "firstName": "Matt",
+      "age": 38,
+      "gender": "Male",
+      "location": {
+        "city": "Sturgis",
+        "state": "SD"
+      },
+      "bio": "Mechanic and bike enthusiast. I live for the open road. I'm a man of few words but I'm fiercely loyal to the people I care about. Not looking for drama. Just want an honest woman to ride on the back of my bike.",
+      "occupation": "Mechanic",
+      "education": "High School"
+    },
+    "lifestyle": {
+      "smoking": "Regularly",
+      "drinking": "Frequently",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Motorcycles",
+      "Rock Music",
+      "Camping",
+      "BBQ",
+      "Dogs",
+      "Working on Engines"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/26_1.jpg",
+      "https://example.com/images/male/26_2.jpg",
+      "https://example.com/images/male/26_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 40],
+      "genderPreference": "Female",
+      "maxDistanceKm": 200,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "No preference",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c6d5e4f3-b2a1-4c0d-9e8f-7g6h5i4j3k2l",
+    "profileInfo": {
+      "username": "NauticalNancy",
+      "firstName": "Nancy",
+      "age": 55,
+      "gender": "Female",
+      "location": {
+        "city": "Annapolis",
+        "state": "MD"
+      },
+      "bio": "Retired Navy captain. I've sailed the world and now I'm enjoying a quiet life by the bay. I'm disciplined, structured, and have a surprisingly goofy side. Looking for a respectable gentleman for companionship and maybe some sailing.",
+      "occupation": "Retired (Navy)",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Sailing",
+      "Seafood",
+      "Reading",
+      "Naval History",
+      "Gardening",
+      "Dogs"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/26_1.jpg",
+      "https://example.com/images/female/26_2.jpg",
+      "https://example.com/images/female/26_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [52, 62],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Friendship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "b1a0c9d8-e7f6-4a5b-b4c3-d2e1f0a9b8c7",
+    "profileInfo": {
+      "username": "Organic_Omar",
+      "firstName": "Omar",
+      "age": 30,
+      "gender": "Male",
+      "location": {
+        "city": "Berkeley",
+        "state": "CA"
+      },
+      "bio": "Urban farmer and community organizer. I believe in sustainability, social justice, and the power of a good compost pile. I'm an idealist with dirt under my fingernails. Looking for a partner who wants to make the world a better place.",
+      "occupation": "Urban Farmer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Organic Gardening",
+      "Social Justice",
+      "Sustainability",
+      "Vegan Cooking",
+      "Biking",
+      "Folk Music"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/27_1.jpg",
+      "https://example.com/images/male/27_2.jpg",
+      "https://example.com/images/male/27_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [27, 34],
+      "genderPreference": "Female",
+      "maxDistanceKm": 60,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "e1f0a9b8-c7d6-4e5f-b4c3-d2e1f0a9b8c8",
+    "profileInfo": {
+      "username": "PilatesPaige",
+      "firstName": "Paige",
+      "age": 28,
+      "gender": "Female",
+      "location": {
+        "city": "Scottsdale",
+        "state": "AZ"
+      },
+      "bio": "Pilates instructor and health blogger. I love helping people feel strong and confident. My life is green smoothies, cute workout sets, and lots of sunshine. Looking for a positive, ambitious guy who takes care of himself.",
+      "occupation": "Pilates Instructor",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Pilates",
+      "Healthy Eating",
+      "Blogging",
+      "Fashion",
+      "Hiking",
+      "Brunch"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/27_1.jpg",
+      "https://example.com/images/female/27_2.jpg",
+      "https://example.com/images/female/27_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 35],
+      "genderPreference": "Male",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a9b8c7d6-e5f4-4a3b-b2c1-d0e9f8a7b6c9",
+    "profileInfo": {
+      "username": "Quentin_Quirky",
+      "firstName": "Quentin",
+      "age": 32,
+      "gender": "Male",
+      "location": {
+        "city": "Portland",
+        "state": "OR"
+      },
+      "bio": "Librarian who specializes in rare books. I have a collection of vintage typewriters and a flair for the dramatic. I'm an old soul with a quirky sense of humor. Seeking a woman who appreciates intellectual conversation and isn't afraid of being weird.",
+      "occupation": "Librarian",
+      "education": "Master's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Rare Books",
+      "Calligraphy",
+      "Indie Films",
+      "Cats",
+      "Philosophy",
+      "Whiskey"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/28_1.jpg",
+      "https://example.com/images/male/28_2.jpg",
+      "https://example.com/images/male/28_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [29, 37],
+      "genderPreference": "Female",
+      "maxDistanceKm": 50,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5e",
+    "profileInfo": {
+      "username": "ReporterRiley",
+      "firstName": "Riley",
+      "age": 25,
+      "gender": "Female",
+      "location": {
+        "city": "Des Moines",
+        "state": "IA"
+      },
+      "bio": "Local news reporter. I'm always on the go, covering everything from county fairs to city council meetings. I'm ambitious and curious. I love a good story and a strong coffee. Looking for someone who is supportive of a crazy schedule.",
+      "occupation": "News Reporter",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Journalism",
+      "Current Events",
+      "Coffee Shops",
+      "Running",
+      "Photography",
+      "Local Politics"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/28_1.jpg",
+      "https://example.com/images/female/28_2.jpg",
+      "https://example.com/images/female/28_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 32],
+      "genderPreference": "Male",
+      "maxDistanceKm": 100,
+      "lookingFor": "Still figuring it out",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "c8d7e6f5-a4b3-4c2d-b1a0-c9d8e7f6a5b8",
+    "profileInfo": {
+      "username": "Surfer_Sean",
+      "firstName": "Sean",
+      "age": 29,
+      "gender": "Male",
+      "location": {
+        "city": "San Diego",
+        "state": "CA"
+      },
+      "bio": "Surf instructor and part-time bartender. Life is simple: catch waves, make drinks, hang out with good people. I'm all about positive vibes and living in the moment. Looking for a laid-back girl to watch the sunset with.",
+      "occupation": "Surf Instructor",
+      "education": "Some College"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Frequently",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Surfing",
+      "Beach Bonfires",
+      "Tacos",
+      "Reggae Music",
+      "Skateboarding",
+      "Dogs"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/29_1.jpg",
+      "https://example.com/images/male/29_2.jpg",
+      "https://example.com/images/male/29_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [24, 31],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "b1a0c9d8-e7f6-4a5b-b4c3-d2e1f0a9b8c9",
+    "profileInfo": {
+      "username": "TherapistTina",
+      "firstName": "Tina",
+      "age": 42,
+      "gender": "Female",
+      "location": {
+        "city": "Boulder",
+        "state": "CO"
+      },
+      "bio": "Family therapist, divorced, two teenagers. I'm a great listener and I'm very emotionally intelligent. I've done the work on myself and I'm looking for a partner who has, too. I value communication, empathy, and a good sense of humor.",
+      "occupation": "Therapist",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Active",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Psychology",
+      "Hiking",
+      "Yoga",
+      "Reading",
+      "Mindfulness",
+      "Farmers Markets"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/29_1.jpg",
+      "https://example.com/images/female/29_2.jpg",
+      "https://example.com/images/female/29_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [38, 48],
+      "genderPreference": "Male",
+      "maxDistanceKm": 70,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "e1f0a9b8-c7d6-4e5f-b4c3-d2e1f0a9b8d2",
+    "profileInfo": {
+      "username": "UpbeatUmar",
+      "firstName": "Umar",
+      "age": 27,
+      "gender": "Male",
+      "location": {
+        "city": "Detroit",
+        "state": "MI"
+      },
+      "bio": "Automotive designer. I get to help shape the future of cars. I'm an optimist with a creative streak. I love electronic music, modern art, and exploring the city's comeback. Looking for a smart, stylish, and positive woman.",
+      "occupation": "Automotive Designer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Socially",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Car Design",
+      "Electronic Music",
+      "Modern Art",
+      "Architecture",
+      "Fashion",
+      "Good Food"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/30_1.jpg",
+      "https://example.com/images/male/30_2.jpg",
+      "https://example.com/images/male/30_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 32],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Bachelor's or higher",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers social drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "a9b8c7d6-e5f4-4a3b-b2c1-d0e9f8a7b6d0",
+    "profileInfo": {
+      "username": "ViolaTheViolinist",
+      "firstName": "Viola",
+      "age": 30,
+      "gender": "Female",
+      "location": {
+        "city": "Boston",
+        "state": "MA"
+      },
+      "bio": "Violinist in the city symphony. My life is disciplined and passionate. I'm dedicated to my craft. I'm an introvert, but I love expressing myself through music. Seeking a kind, patient man who appreciates the arts.",
+      "occupation": "Classical Musician",
+      "education": "Postgraduate"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Sometimes",
+      "hasChildren": false,
+      "wantsChildren": "Open to it"
+    },
+    "interests": [
+      "Classical Music",
+      "Violin",
+      "Art Museums",
+      "History",
+      "Reading",
+      "Quiet Nights"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/30_1.jpg",
+      "https://example.com/images/female/30_2.jpg",
+      "https://example.com/images/female/30_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [29, 37],
+      "genderPreference": "Male",
+      "maxDistanceKm": 60,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "Postgraduate",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": true
+    }
+  },
+  {
+    "userId": "7b6a5c4d-3e2f-4a1b-9c0d-8e7f6a5b4c3d",
+    "profileInfo": {
+      "username": "WebDevWalt",
+      "firstName": "Walter",
+      "age": 36,
+      "gender": "Male",
+      "location": {
+        "city": "Raleigh",
+        "state": "NC"
+      },
+      "bio": "Front-end web developer, single dad to a 10-year-old daughter. My life is a balance of clean code and chaotic slime-making sessions. I'm a patient, logical guy who is looking for a partner to join our little team.",
+      "occupation": "Web Developer",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "exercise": "Sometimes",
+      "hasChildren": true,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Coding",
+      "Video Games",
+      "Sci-Fi Books",
+      "Cooking with my daughter",
+      "Hiking",
+      "Board Games"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/31_1.jpg",
+      "https://example.com/images/male/31_2.jpg",
+      "https://example.com/images/male/31_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [32, 40],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": true,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "5d4c3b2a-1e0f-4a9b-8c7d-6e5f4a3b2c1e",
+    "profileInfo": {
+      "username": "XtraXimena",
+      "firstName": "Ximena",
+      "age": 28,
+      "gender": "Female",
+      "location": {
+        "city": "Miami",
+        "state": "FL"
+      },
+      "bio": "Event planner for Miami's hottest parties. I'm extra, I know it, and I love it. Life should be a celebration. I'm looking for a man who is confident, successful, and knows how to treat a woman like a queen. No drama, just fun.",
+      "occupation": "Event Planner",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Frequently",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "Nightlife",
+      "Fashion",
+      "Yachting",
+      "Fine Dining",
+      "Dancing",
+      "Travel"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/31_1.jpg",
+      "https://example.com/images/female/31_2.jpg",
+      "https://example.com/images/female/31_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [30, 40],
+      "genderPreference": "Male",
+      "maxDistanceKm": 70,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "3b2a1c0b-9d8e-4f7a-b6c5-4d3e2f1a0b9c",
+    "profileInfo": {
+      "username": "YogaYusuf",
+      "firstName": "Yusuf",
+      "age": 33,
+      "gender": "Male",
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      "bio": "Yoga and meditation teacher. My goal is to live a mindful and intentional life. I'm calm, compassionate, and a very good listener. I love deep conversations, healthy food, and nature. Seeking a partner on a similar spiritual journey.",
+      "occupation": "Yoga Teacher",
+      "education": "Bachelor's Degree"
+    },
+    "lifestyle": {
+      "smoking": "Never",
+      "drinking": "Never",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Wants Someday"
+    },
+    "interests": [
+      "Yoga",
+      "Meditation",
+      "Spirituality",
+      "Veganism",
+      "Hiking",
+      "Philosophy"
+    ],
+    "profileImages": [
+      "https://example.com/images/male/32_1.jpg",
+      "https://example.com/images/male/32_2.jpg",
+      "https://example.com/images/male/32_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [28, 36],
+      "genderPreference": "Female",
+      "maxDistanceKm": 80,
+      "lookingFor": "Long-term relationship",
+      "educationPreference": "No preference",
+      "smokingPreference": "Non-smokers only",
+      "drinkingPreference": "Prefers non-drinker",
+      "mustLoveDogs": false,
+      "mustLoveCats": false
+    }
+  },
+  {
+    "userId": "1a0b9c8d-7e6f-4a5b-b4c3-2d1e0f9a8b7c",
+    "profileInfo": {
+      "username": "ZanyZara",
+      "firstName": "Zara",
+      "age": 26,
+      "gender": "Female",
+      "location": {
+        "city": "New Orleans",
+        "state": "LA"
+      },
+      "bio": "Tour guide in the French Quarter. I get paid to tell spooky stories and talk about history. I'm a performer at heart with a flair for the dramatic and a love for all things weird. Let's get beignets and wander the city.",
+      "occupation": "Tour Guide",
+      "education": "Some College"
+    },
+    "lifestyle": {
+      "smoking": "Socially",
+      "drinking": "Frequently",
+      "exercise": "Active",
+      "hasChildren": false,
+      "wantsChildren": "Doesn't Want"
+    },
+    "interests": [
+      "History",
+      "Ghosts",
+      "Theater",
+      "Costumes",
+      "Jazz",
+      "Cocktails"
+    ],
+    "profileImages": [
+      "https://example.com/images/female/32_1.jpg",
+      "https://example.com/images/female/32_2.jpg",
+      "https://example.com/images/female/32_3.jpg"
+    ],
+    "preferences": {
+      "ageRange": [25, 33],
+      "genderPreference": "Male",
+      "maxDistanceKm": 60,
+      "lookingFor": "Short-term fun",
+      "educationPreference": "No preference",
+      "smokingPreference": "Okay with social smoking",
+      "drinkingPreference": "Doesn't matter",
+      "mustLoveDogs": true,
+      "mustLoveCats": true
+    }
+  }
+]
