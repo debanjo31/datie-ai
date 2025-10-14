@@ -2,7 +2,8 @@
   "name": "datie-ai",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/index.ts",
+    "dev": "tsx --env-file=.env --watch src/index.ts",
+    "test": "tsx src/test-matchmaking.ts",
     "build": "esbuild --bundle --outfile=./dist/index.js --platform=node --target=node20 ./src/index.ts",
     "zip": "zip -j lambda.zip dist/index.js",
     "update": "aws lambda update-function-code --zip-file fileb://lambda.zip --function-name hello",
@@ -11,7 +12,8 @@
   "devDependencies": {
     "@types/node": "^24.7.2",
     "esbuild": "^0.21.4",
-    "npm-run-all2": "^6.2.0"
+    "npm-run-all2": "^6.2.0",
+    "tsx": "^4.7.1"
   },
   "dependencies": {
     "@google/genai": "^1.24.0",
