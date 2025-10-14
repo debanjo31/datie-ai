@@ -1,6 +1,6 @@
-# Datie AI - Modern Dating Matchmaking Engine
+# Datie AI - Modern Dating Matchmaker
 
-A powerful AI-driven matchmaking engine for dating apps that uses **Gemini embeddings** and **Pinecone vector database** to find highly compatible matches based on personality, interests, and lifestyle. It uses **Google's Gemini AI** to understand the "vibe" of a user's profile (their personality, interests, and lifestyle) by converting their profile into a numerical representation called an "embedding." These embeddings are stored in a Pinecone vector database, which allows for very fast and efficient searching of similar users.
+A powerful AI-driven matchmaker for dating apps that uses **Gemini embeddings** and **Pinecone vector database** to find highly compatible matches based on personality, interests, and lifestyle. It uses **Google's Gemini AI** to understand the "vibe" of a user's profile (their personality, interests, and lifestyle) by converting their profile into a numerical representation called an "embedding." These embeddings are stored in a Pinecone vector database, which allows for very fast and efficient searching of similar users.
 
 It also ultilize Rule-based Compatibility Filtering which applies a set of rules to filter and rank potential matches based on user preferences like age, gender, relationship goals, and other "deal-breakers."
 
