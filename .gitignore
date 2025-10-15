@@ -16,8 +16,6 @@ lambda.zip
 node_modules/
 
 # env
-.env
-.env.production
 
 # logs
 logs/
@@ -30,3 +28,4 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+config.bat

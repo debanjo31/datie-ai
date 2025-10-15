@@ -44,15 +44,15 @@ export function getCompatibilityScore(user1: User, user2: User): number {
     score += 10;
   }
 
-  // Exercise/lifestyle alignment (weight: 10)
+  // Smoking compatibility (weight: 10)
   maxScore += 10;
   if (user1.lifestyle.smoking === user2.lifestyle.smoking) {
     score += 10;
   } else if (
-    (user1.lifestyle.smoking === "Active" &&
-      user2.lifestyle.smoking === "Sometimes") ||
-    (user1.lifestyle.smoking === "Sometimes" &&
-      user2.lifestyle.smoking === "Active")
+    (user1.lifestyle.smoking === "Occasionally" &&
+      user2.lifestyle.smoking === "Never") ||
+    (user1.lifestyle.smoking === "Never" &&
+      user2.lifestyle.smoking === "Occasionally")
   ) {
     score += 5;
   }

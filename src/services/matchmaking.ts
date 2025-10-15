@@ -104,6 +104,7 @@ export async function findMatches(
       // preferredGender: user.profileInfo.gender, // mutual
     },
   });
+  console.log(queryResponse);
 
   // Process matches
   const matches: Match[] = [];
